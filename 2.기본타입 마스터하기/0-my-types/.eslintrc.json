@@ -18,6 +18,7 @@
     ],
     "rules": {
         "no-inner-declarations" : "off",
+        "prefer-const" :"off",
         "prettier/prettier" : "error"
     }
 }
