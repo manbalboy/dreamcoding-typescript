@@ -17,6 +17,7 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "no-inner-declarations" : "off",
         "prettier/prettier" : "error"
     }
 }
